@@ -1,0 +1,9 @@
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/Make2048.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/Make2048_autogen_timestamp_deps.dir
+D:/QtCreator/CProject/Make2048/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/Make2048_autogen.dir
